@@ -1,7 +1,7 @@
 docker-debian-nginx
 =============
 
-A small [Debian](http://www.debian.org/)-based image for [Docker](http://docker.io/), with [NGINX](http://nginx.org/) and [OpenSSL](http://www.openssl.org/) installed.
+A small [Debian](http://www.debian.org/)-based image for [Docker](http://docker.io/), with [NGINX](http://nginx.org/) (ver 1.4.6) and [OpenSSL](http://www.openssl.org/) installed.
 
 Based on Debian Wheezy, and with NGINX configured to:
 
