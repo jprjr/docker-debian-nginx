@@ -16,7 +16,7 @@ ADD nginx.conf /etc/nginx/nginx.conf
 ADD default.conf /etc/nginx/conf.d/default.conf
 ADD index.html /srv/www/index.html
 
-VOLUME ["/etc/nginx/conf.d"]
+VOLUME ["/etc/nginx"]
 VOLUME ["/srv/www"]
 
 EXPOSE 80
