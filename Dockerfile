@@ -21,3 +21,4 @@ EXPOSE 80
 EXPOSE 443
 
 ENTRYPOINT ["nginx"]
+CMD []
